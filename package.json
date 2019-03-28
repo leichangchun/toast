@@ -1,0 +1,26 @@
+{
+  "name": "toast",
+  "version": "1.0.0",
+  "description": "简单的toast组件",
+  "main": "toast.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leichangchun/toast.git"
+  },
+  "author": "Lei",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/leichangchun/toast/issues"
+  },
+  "homepage": "https://github.com/leichangchun/toast#readme"
+}
